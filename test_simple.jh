@@ -1,0 +1,9 @@
+
+  entity Product {
+    name String
+    code String required
+    }
+
+  
+
+
