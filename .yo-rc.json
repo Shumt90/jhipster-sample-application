@@ -43,7 +43,9 @@
     "devServerPort": 9060,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Product"],
+    "lastLiquibaseTimestamp": 1625587802000
   },
   "git-provider": "GitHub",
   "git-company": "Shumt90",
